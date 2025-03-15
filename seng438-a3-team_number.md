@@ -19,6 +19,8 @@ For this lab we were assigned to get familiar with testing coverage tools, were 
 # 2 Manual data-flow coverage calculations for X and Y methods
 Method 1: DataUtilities.calculateColumnTotal
 Data flow graph:
+![My Image](images/1.png)
+
 
 
 # 3 A detailed description of the testing strategy for the new unit test
